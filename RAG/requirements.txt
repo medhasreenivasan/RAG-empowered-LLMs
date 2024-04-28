@@ -7,3 +7,4 @@ openai==1.23.6
 PyPDF2==3.0.1
 tiktoken==0.6.0
 torch==2.2.1+cu121
+ragas==0.1.7
